@@ -1,1 +1,2 @@
-# LMS
+# project
+Library management System
